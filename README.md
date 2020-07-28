@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/zhichen-wen/hw-tdd-rspec.svg?branch=master)](https://travis-ci.org/zhichen-wen/hw-tdd-rspec)
 # TDD with RSpec
 
 In this assignment you will use a combination of Acceptance and
@@ -216,5 +217,3 @@ folder so that it looks like so:
 ``` $ tree .  └── rottenpotatoes
     ├── Gemfile ├── Gemfile.lock ├── app ...
 ```
-
-[![Build Status](https://travis-ci.org/zhichen-wen/hw-tdd-rspec.svg?branch=master)](https://travis-ci.org/zhichen-wen/hw-tdd-rspec)
